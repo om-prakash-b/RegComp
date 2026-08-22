@@ -209,11 +209,11 @@ Regtech/
 
 ## License
 
-[Your License Here]
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
-[Contributing Guidelines Here]
+This is a personal/portfolio project. Issues and pull requests are welcome, but there's no formal contribution process in place yet — feel free to open an issue to discuss a change before submitting a PR.
 
 ## Support
 
