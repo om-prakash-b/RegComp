@@ -213,7 +213,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contributing
 
-This is a personal/portfolio project. Issues and pull requests are welcome, but there's no formal contribution process in place yet — feel free to open an issue to discuss a change before submitting a PR.
+This is a personal/portfolio project. Issues and pull requests are welcome, but there's no formal contribution process in place yet. Feel free to open an issue to discuss a change before submitting a PR.
 
 ## Support
 
